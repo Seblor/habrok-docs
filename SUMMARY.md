@@ -6,6 +6,7 @@
 
 * [🚀 Adding the bot](overview/adding-the-bot.md)
 * [🛠 Support Server](overview/support-server.md)
+* [⚠ Warnings](overview/warnings.md)
 
 ## Admin Features
 
