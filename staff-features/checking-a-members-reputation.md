@@ -16,6 +16,10 @@ This command is available to members with the permission "Manage Messages".
 
 This commands allows you to check a member's reputation score.
 
+{% hint style="info" %}
+The detailed view shows "++" or "--" when the person who rated the community member is a staff member
+{% endhint %}
+
 ## Arguments
 
 ### user
@@ -24,6 +28,8 @@ The member whose reputation score you wish to check.
 
 ## Example
 
-<figure><img src="../.gitbook/assets/member_stats.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/member_stats (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/member_stats_detailed.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/member_stats_shared.png" alt=""><figcaption></figcaption></figure>
