@@ -28,8 +28,12 @@ The score that the user needs to earn the role.
 
 This is the score under which the role will be removed. This is used as a buffer to avoid a role being added to and removed from a member too quickly.
 
+{% hint style="danger" %}
+To avoid abuse, you cannot set a reward to a negative score. The bot is not intented to be used as an automoderator.
+{% endhint %}
+
 {% hint style="warning" %}
-The "score-before-rescind" must be lower than or equal to "score-needed"
+The "score-before-rescind" must be lower than or equal to "score-needed".
 {% endhint %}
 
 {% hint style="info" %}
